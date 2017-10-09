@@ -1,0 +1,13 @@
+linters:
+  VendorPrefix:
+    enabled: false
+  NestingDepth:
+    enabled: false
+  PropertySortOrder:
+    enabled: false
+  SelectorDepth:
+    enabled: false
+  SelectorFormat:
+    enabled: false
+  EmptyRule:
+    enabled: false

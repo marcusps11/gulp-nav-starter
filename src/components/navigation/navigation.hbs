@@ -1,0 +1,10 @@
+<navigation class="site-navigation">
+  <button type="button" class="site-navigation__menu-button"><span>toggle menu</span></button>
+  <nav class="site-navigation__menu-container">
+    <ul>
+      {{#each links}}
+        <li><a href="{{url}}">{{title}}</a></li>
+      {{/each}}
+    </ul>
+  </nav>
+</navigation>

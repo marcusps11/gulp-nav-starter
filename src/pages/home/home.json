@@ -1,0 +1,34 @@
+{
+  "title": "Home Page",
+  "header": {
+    "title": "Site in a box",
+    "navigation": {
+      "title": "navigation component",
+      "links": [
+        {
+          "title": "Home",
+          "url": "/"
+        },
+        {
+          "title": "About",
+          "url": "/about"
+        },
+        {
+          "title":  "Work",
+          "url": "/work"
+        },
+        {
+          "title": "Contact",
+          "url": "/contact"
+        },
+        {
+          "title": "News",
+          "url": "/news"
+        }
+      ]
+    },
+    "assets": {
+      "logo": "/assets/images/temp/logo.png"
+    }
+  }
+}

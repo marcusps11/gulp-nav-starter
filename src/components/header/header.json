@@ -1,0 +1,9 @@
+{
+  "title": "home page",
+  "navigation": {
+    "title": "navigation component"
+  },
+  "assets": {
+    "logo": "/assets/images/temp/logo.png"
+  }
+}

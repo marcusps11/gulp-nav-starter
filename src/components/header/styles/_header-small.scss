@@ -1,0 +1,23 @@
+.site-header {
+  @include clearfix;
+  background-color: $color-white;
+
+  &__logo {
+    float: left;
+    width: 6rem;
+
+    img {
+      width: 100%;
+      display: block;
+    }
+
+    span {
+      @include visually-hidden;
+    }
+  }
+
+  &__navigation {
+    float: right;
+  }
+
+}
